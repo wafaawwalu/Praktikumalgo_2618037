@@ -4,10 +4,10 @@ using namespace std;
 
 int main() {
     string nama, nim;
-    long long pendapatan;
+    int pendapatan;
     int tanggungan;
     int tarif;
-    long long pajak;
+    int pajak;
 
     cout << "===== PROGRAM PAJAK PENDAPATAN =====" << endl << endl;
 
